@@ -1,4 +1,4 @@
-# Learning-in-Quarantine
+# Learning in Quarantine
 #### A list of repos, web, content and utils for learning in this quarantine period. 
 ---
 
