@@ -25,6 +25,7 @@
 
 ### Podcast
 - [Como Fabricar Tiempo](https://www.lanacion.com.ar/tema/como-fabricar-tiempo-tid65456)
+- [Secure Podcast](https://securepodcast.com/) - Infosec Podcast
 
 ### Online Conferences
 - [FluCon](https://www.youtube.com/watch?v=reIK6XERnKs) - Security Conference
