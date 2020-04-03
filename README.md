@@ -31,3 +31,5 @@
 - [FluCon](https://www.youtube.com/watch?v=reIK6XERnKs) - Security Conference
 - [Ekomaraton](http://www.twitter.com/ekoparty) - Saturday April 4
   
+### Courses
+- [Nikon School](https://www.nikonevents.com/us/live/nikon-school-online) - Photography Courses
