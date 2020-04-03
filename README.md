@@ -27,6 +27,6 @@
 - [Como Fabricar Tiempo](https://www.lanacion.com.ar/tema/como-fabricar-tiempo-tid65456)
 
 ### Online Conferences
-- [FluCon] (https://www.youtube.com/watch?v=reIK6XERnKs) - Security Conference
+- [FluCon](https://www.youtube.com/watch?v=reIK6XERnKs) - Security Conference
 - [Ekomaraton](http://www.twitter.com/ekoparty) - Saturday April 4
   
