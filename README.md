@@ -6,10 +6,12 @@
 - [Academia ESET](https://www.academiaeset.com/)
 - [Cisco Network Academy ](www.netacad.com) - Some courses are Free
 - [BackTrack Academy](https://backtrackacademy.com/)
+- [DragonJar](https://www.dragonjar.org/formacion) - Free Introduction to Pentesting Course
 
 ### Web Development
 - [Pluralsight](https://www.pluralsight.com/offer/2020/free-april-month)
 - [Udemy](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - Free Courses for Limited Time
+- [Courses PacktPub](https://courses.packtpub.com/pages/free) - Free Courses
 
 ### Live Streamings
 - [La Bitcoineta](http://bitcoineta.org/) - Bitcoin, Blockchain & Cryptocurrencies
