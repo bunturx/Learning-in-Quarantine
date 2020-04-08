@@ -32,6 +32,7 @@
 ### Online Conferences
 - [FluCon](https://www.youtube.com/watch?v=reIK6XERnKs) - Security Conference
 - [Ekomaraton](http://www.twitter.com/ekoparty) - Saturday April 4
+- [C0r0n4c0n](https://c0r0n4con.com/) - Security COnference - April 9-10-11-12
   
 ### Courses
 - [Nikon School](https://www.nikonevents.com/us/live/nikon-school-online) - Photography Courses
