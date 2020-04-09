@@ -40,4 +40,6 @@
 - [Hardvard University](https://online-learning.harvard.edu/catalog/free)
 - [Udacity](https://www.udacity.com/courses/all)
 - [EDX](https://www.edx.org/)
-
+- [Open Culture](http://www.openculture.com/freeonlinecourses#Media%20Studies) - 1,500 Free Online Courses from Top Universities
+- [Red Hat](https://blcsystems.com/red-hat-free-courses/)- Red Hat Free Courses
+- [Future Learn](https://www.futurelearn.com/courses)
