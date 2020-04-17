@@ -43,3 +43,21 @@
 - [Open Culture](http://www.openculture.com/freeonlinecourses#Media%20Studies) - 1,500 Free Online Courses from Top Universities
 - [Red Hat](https://blcsystems.com/red-hat-free-courses/)- Red Hat Free Courses
 - [Future Learn](https://www.futurelearn.com/courses)
+
+More Courses
+
+- [Microsoft - Azure Certification](https://lnkd.in/g4E6FfJ)
+- [AWS - All AWS Technology](https://lnkd.in/fkcMAKg)
+- [IBM - All IBM Technology](https://lnkd.in/gR4zq2W)
+- [Oracle University - Cloud Infrastructure and Autonomous Database](https://lnkd.in/fVBv9KT)
+- [Fortinet - NSE1 and NSE2](https://lnkd.in/gH7SCE9)
+- [Palo Alto - Networks](https://lnkd.in/gfj9f6h)
+- [Cisco - Cyber Security](https://lnkd.in/gwZBBPJ)
+- [Qualysguard - Vulnerabilty Management](https://lnkd.in/fMHuKc4)
+- [Nessus - Vulnerabilty Management](https://lnkd.in/gEvcJeh)
+- [SANS - Cyber Security](https://lnkd.in/gexceQz)
+- [Homeland Security - ICS Security](https://lnkd.in/g7G4Ebh)
+- [Coursera - Cloud Courses](https://lnkd.in/fTCXqFm)
+- [Pluralsight - All Training](https://lnkd.in/djPvKDe)
+- [Sololearn - All Training](https://lnkd.in/fYHT27z)
+- [Google cloud courses](https://cloud.google.com/blog/topics/training-certifications/expanding-at-home-learning)
